@@ -1,1 +1,1 @@
-A Restaurant Management System built by C++
+A Restaurant Management System built with C++
